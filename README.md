@@ -12,7 +12,9 @@ Our simulation scenario:
 
 ## The Core Formula
 
+```
 Final Price per Unit = ((Total Time × (Labor Rate + Sustenance Rate)) + Tool Cost) × Scarcity Multiplier / Units Harvested
+```
 
 ---
 
