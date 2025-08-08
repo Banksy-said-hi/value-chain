@@ -338,7 +338,7 @@ const App: FC = () => {
     const initialMaterials: Material[] = [
         { id: 'raw_lumber', name: 'Raw Lumber', price: 0.8750, category: 'raw' },
         { id: 'wooden_planks', name: 'Wooden Planks', price: 0, category: 'processed' },
-        ...Object.keys(recipes).filter(id => id !== 'wooden_planks').map(id => ({ id, name: recipes[id].name, price: 0, category: 'product' }))
+        ...Object.keys(recipes).filter(id => id !== 'wooden_planks').map(id => ({ id, name: recipes[id].name, price: 0, category: 'product' as 'product' }))
     ];
     const uniqueInitialMaterials = initialMaterials.filter((v,i,a)=>a.findIndex(t=>(t.id === v.id))===i);
 
