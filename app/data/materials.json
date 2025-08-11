@@ -1,0 +1,146 @@
+[
+  {
+    "id": "raw_lumber",
+    "name": "Raw Lumber",
+    "price": 0.8750,
+    "category": "raw"
+  },
+  {
+    "id": "fresh_algae",
+    "name": "Fresh Algae",
+    "price": 1.2,
+    "category": "raw"
+  },
+  {
+    "id": "clean_water",
+    "name": "Clean Water",
+    "price": 0.5,
+    "category": "raw"
+  },
+  {
+    "id": "retted_flaxa",
+    "name": "Retted Flaxa",
+    "price": 1.5,
+    "category": "processed"
+  },
+  {
+    "id": "rough_flaxa_cushion",
+    "name": "Rough Flaxa Cushion",
+    "price": 2.0,
+    "category": "processed"
+  },
+  {
+    "id": "flaxa",
+    "name": "Flaxa",
+    "price": 1.0,
+    "category": "raw"
+  },
+  {
+    "id": "clay",
+    "name": "Clay",
+    "price": 0.6,
+    "category": "raw"
+  },
+  {
+    "id": "limestone",
+    "name": "Limestone",
+    "price": 0.7,
+    "category": "raw"
+  },
+  {
+    "id": "murky_water",
+    "name": "Murky Water",
+    "price": 0.3,
+    "category": "raw"
+  },
+  {
+    "id": "resin",
+    "name": "Resin",
+    "price": 2.5,
+    "category": "processed"
+  },
+  {
+    "id": "flaxa_thread",
+    "name": "Flaxa Thread",
+    "price": 1.8,
+    "category": "processed"
+  },
+  {
+    "id": "unknown_herbs",
+    "name": "Unknown Herbs",
+    "price": 2.2,
+    "category": "raw"
+  },
+  {
+    "id": "coal",
+    "name": "Coal",
+    "price": 3.0,
+    "category": "raw"
+  },
+  {
+    "id": "copper_ore",
+    "name": "Copper Ore",
+    "price": 4.0,
+    "category": "raw"
+  },
+  {
+    "id": "iron_ore",
+    "name": "Iron Ore",
+    "price": 5.0,
+    "category": "raw"
+  },
+  {
+    "id": "wooden_crank_plate",
+    "name": "Wooden Crank Plate",
+    "price": 0,
+    "category": "processed"
+  },
+  {
+    "id": "reinforced_handle",
+    "name": "Reinforced Handle",
+    "price": 0,
+    "category": "processed"
+  },
+  {
+    "id": "silica_sand",
+    "name": "Silica Sand",
+    "price": 0,
+    "category": "processed"
+  },
+  {
+    "id": "polished_stone",
+    "name": "Polished Stone",
+    "price": 0,
+    "category": "processed"
+  },
+  {
+    "id": "gravel",
+    "name": "Gravel",
+    "price": 0,
+    "category": "processed"
+  },
+  {
+    "id": "brick",
+    "name": "Brick",
+    "price": 0,
+    "category": "processed"
+  },
+  {
+    "id": "glass",
+    "name": "Glass",
+    "price": 0,
+    "category": "processed"
+  },
+  {
+    "id": "fiberglass",
+    "name": "Fiberglass",
+    "price": 0,
+    "category": "processed"
+  },
+  {
+    "id": "food_paste",
+    "name": "Food Paste",
+    "price": 1.5,
+    "category": "processed"
+  }
+]

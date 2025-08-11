@@ -1,0 +1,1409 @@
+[
+  {
+    "id": "algae_paste",
+    "name": "Algae Paste",
+    "ingredients": [
+      {
+        "materialId": "fresh_algae",
+        "quantity": 1
+      }
+    ],
+    "manualTime": 600,
+    "autoTime": 300,
+    "machineName": "Algae Cooker",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Algae Cooker",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "algae_soup",
+    "name": "Algae Soup",
+    "ingredients": [
+      {
+        "materialId": "fresh_algae",
+        "quantity": 10
+      },
+      {
+        "materialId": "clean_water",
+        "quantity": 5
+      }
+    ],
+    "manualTime": 3600,
+    "autoTime": 1800,
+    "machineName": "Stove",
+    "skillName": "Crafting",
+    "amount": 10,
+    "storedOn": "Stove",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "wooden_roof_type_1",
+    "name": "Wooden Roof Type 1",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 1800,
+    "autoTime": 120,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "N/A",
+    "craftedBy": "Simple Carpentry Station"
+  },
+  {
+    "id": "wooden_roof_type_2",
+    "name": "Wooden Roof Type 2",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 1800,
+    "autoTime": 120,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "N/A",
+    "craftedBy": "Simple Carpentry Station"
+  },
+  {
+    "id": "wooden_roof_type_3",
+    "name": "Wooden Roof Type 3",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 1800,
+    "autoTime": 120,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "N/A",
+    "craftedBy": "Simple Carpentry Station"
+  },
+  {
+    "id": "wooden_roof_type_4",
+    "name": "Wooden Roof Type 4",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 1800,
+    "autoTime": 120,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "N/A",
+    "craftedBy": "Simple Carpentry Station"
+  },
+  {
+    "id": "wooden_roof_type_5",
+    "name": "Wooden Roof Type 5",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 1800,
+    "autoTime": 120,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "N/A",
+    "craftedBy": "Simple Carpentry Station"
+  },
+  {
+    "id": "wooden_roof_type_6",
+    "name": "Wooden Roof Type 6",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 1800,
+    "autoTime": 120,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "N/A",
+    "craftedBy": "Simple Carpentry Station"
+  },
+  {
+    "id": "wooden_roof_type_7",
+    "name": "Wooden Roof Type 7",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 1800,
+    "autoTime": 120,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "N/A",
+    "craftedBy": "Simple Carpentry Station"
+  },
+  {
+    "id": "wooden_roof_type_8",
+    "name": "Wooden Roof Type 8",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 1800,
+    "autoTime": 120,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "N/A",
+    "craftedBy": "Simple Carpentry Station"
+  },
+  {
+    "id": "wooden_roof_type_9",
+    "name": "Wooden Roof Type 9",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 1800,
+    "autoTime": 120,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "N/A",
+    "craftedBy": "Simple Carpentry Station"
+  },
+  {
+    "id": "basic_wooden_arm_chair",
+    "name": "Basic wooden arm chair",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 4
+      },
+      {
+        "materialId": "rough_flaxa_cushion",
+        "quantity": 2
+      }
+    ],
+    "manualTime": 10800,
+    "autoTime": 120,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Simple Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_wooden_bed",
+    "name": "Basic wooden bed",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 4
+      },
+      {
+        "materialId": "rough_flaxa_cushion",
+        "quantity": 1
+      }
+    ],
+    "manualTime": 10800,
+    "autoTime": 120,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Simple Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_wooden_chair",
+    "name": "Basic wooden chair",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 2
+      },
+      {
+        "materialId": "retted_flaxa",
+        "quantity": 2
+      }
+    ],
+    "manualTime": 10800,
+    "autoTime": 120,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Simple Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_wooden_two-seater",
+    "name": "Basic wooden two-seater",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 4
+      },
+      {
+        "materialId": "rough_flaxa_cushion",
+        "quantity": 4
+      },
+      {
+        "materialId": "retted_flaxa",
+        "quantity": 2
+      }
+    ],
+    "manualTime": 10800,
+    "autoTime": 120,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Simple Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_kitchen_counter_type_a",
+    "name": "Basic Kitchen Counter (Type A)",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 5
+      },
+      {
+        "materialId": "resin",
+        "quantity": 3
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Advanced Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Advanced Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_kitchen_counter_type_b",
+    "name": "Basic Kitchen Counter (Type B)",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 5
+      },
+      {
+        "materialId": "resin",
+        "quantity": 3
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Advanced Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Advanced Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_kitchen_counter_corner",
+    "name": "Basic Kitchen Counter (Corner)",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 5
+      },
+      {
+        "materialId": "resin",
+        "quantity": 3
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Advanced Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Advanced Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_kitchen_counter_set_corner",
+    "name": "Basic Kitchen Counter Set (Corner)",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 8
+      },
+      {
+        "materialId": "resin",
+        "quantity": 5
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Advanced Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Advanced Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_kitchen_counter_set_type_a",
+    "name": "Basic Kitchen Counter Set (Type A)",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 6
+      },
+      {
+        "materialId": "resin",
+        "quantity": 3
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Advanced Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Advanced Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_kitchen_counter_set_type_b",
+    "name": "Basic Kitchen Counter Set (Type B)",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 6
+      },
+      {
+        "materialId": "resin",
+        "quantity": 3
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Advanced Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Advanced Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_double_bed",
+    "name": "Basic Double Bed",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 20
+      },
+      {
+        "materialId": "rough_flaxa_cushion",
+        "quantity": 2
+      }
+    ],
+    "manualTime": 2880,
+    "autoTime": 10,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "N/A",
+    "craftedBy": "Simple Carpentry Station"
+  },
+  {
+    "id": "basic_fridge",
+    "name": "Basic Fridge",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 6
+      },
+      {
+        "materialId": "resin",
+        "quantity": 3
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Advanced Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Advanced Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_wooden_nightstand",
+    "name": "Basic wooden nightstand",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 3
+      }
+    ],
+    "manualTime": 10800,
+    "autoTime": 120,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Simple Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_wooden_shelf_big",
+    "name": "Basic wooden shelf (big)",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 10800,
+    "autoTime": 120,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Simple Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_wooden_shelf_small",
+    "name": "Basic wooden shelf (small)",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 6
+      }
+    ],
+    "manualTime": 10800,
+    "autoTime": 120,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Simple Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_sink",
+    "name": "Basic Sink",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 5
+      },
+      {
+        "materialId": "resin",
+        "quantity": 2
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Advanced Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Advanced Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_sink_set",
+    "name": "Basic Sink Set",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 8
+      },
+      {
+        "materialId": "resin",
+        "quantity": 5
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Advanced Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Advanced Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "fancy_storage_shelf",
+    "name": "Fancy Storage Shelf",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 4
+      },
+      {
+        "materialId": "retted_flaxa",
+        "quantity": 2
+      }
+    ],
+    "manualTime": 1440,
+    "autoTime": 10,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "N/A",
+    "craftedBy": "Simple Carpentry Station"
+  },
+  {
+    "id": "basic_wooden_table",
+    "name": "Basic wooden table",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 4
+      }
+    ],
+    "manualTime": 10800,
+    "autoTime": 120,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Simple Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "canned_algae_paste",
+    "name": "Canned Algae Paste",
+    "ingredients": [
+      {
+        "materialId": "algae_paste",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 3600,
+    "autoTime": 1800,
+    "machineName": "Algae Processor",
+    "skillName": "Crafting",
+    "amount": 10,
+    "storedOn": "N/A",
+    "craftedBy": "Algae Processor"
+  },
+  {
+    "id": "basic_boots",
+    "name": "Basic Boots",
+    "ingredients": [
+      {
+        "materialId": "flaxa_thread",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Weaving Loom",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Weaving Loom",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_belt",
+    "name": "Basic Belt",
+    "ingredients": [
+      {
+        "materialId": "flaxa_thread",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Weaving Loom",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Weaving Loom",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_jeans",
+    "name": "Basic Jeans",
+    "ingredients": [
+      {
+        "materialId": "flaxa_thread",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Weaving Loom",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Weaving Loom",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "basic_sweater",
+    "name": "Basic Sweater",
+    "ingredients": [
+      {
+        "materialId": "flaxa_thread",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Weaving Loom",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Weaving Loom",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "starter_boots",
+    "name": "Starter Boots",
+    "ingredients": [
+      {
+        "materialId": "flaxa_thread",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Weaving Loom",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Weaving Loom",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "starter_pants",
+    "name": "Starter Pants",
+    "ingredients": [
+      {
+        "materialId": "flaxa_thread",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Weaving Loom",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Weaving Loom",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "starter_jacket",
+    "name": "Starter Jacket",
+    "ingredients": [
+      {
+        "materialId": "flaxa_thread",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Weaving Loom",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Weaving Loom",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "cooling_gel",
+    "name": "Cooling Gel",
+    "ingredients": [
+      {
+        "materialId": "algae_paste",
+        "quantity": 1
+      }
+    ],
+    "manualTime": 600,
+    "autoTime": 10,
+    "machineName": "Apothecary Table",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Apothecary Table",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "herbal_wound_salve",
+    "name": "Herbal Wound Salve",
+    "ingredients": [
+      {
+        "materialId": "unknown_herbs",
+        "quantity": 3
+      }
+    ],
+    "manualTime": 600,
+    "autoTime": 10,
+    "machineName": "Apothecary Table",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Apothecary Table",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "clay",
+    "name": "Clay",
+    "ingredients": [],
+    "manualTime": 800,
+    "autoTime": 0,
+    "machineName": "Clay Extractor",
+    "skillName": "Crafting",
+    "amount": 5,
+    "storedOn": "Clay Extractor",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "coal",
+    "name": "Coal",
+    "ingredients": [],
+    "manualTime": 3600,
+    "autoTime": 0,
+    "machineName": "Coal Extractor",
+    "skillName": "Crafting",
+    "amount": 5,
+    "storedOn": "Coal Extractor",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "copper_ore",
+    "name": "Copper Ore",
+    "ingredients": [],
+    "manualTime": 3600,
+    "autoTime": 0,
+    "machineName": "Copper Ore Extractor",
+    "skillName": "Crafting",
+    "amount": 5,
+    "storedOn": "Copper Ore Extractor",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "iron_ore",
+    "name": "Iron Ore",
+    "ingredients": [],
+    "manualTime": 3600,
+    "autoTime": 0,
+    "machineName": "Iron Ore Extractor",
+    "skillName": "Crafting",
+    "amount": 5,
+    "storedOn": "Iron Ore Extractor",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "limestone",
+    "name": "Limestone",
+    "ingredients": [],
+    "manualTime": 3600,
+    "autoTime": 0,
+    "machineName": "Stone Extractor",
+    "skillName": "Crafting",
+    "amount": 5,
+    "storedOn": "Stone Extractor",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "murky_water",
+    "name": "Murky Water",
+    "ingredients": [],
+    "manualTime": 600,
+    "autoTime": 10,
+    "machineName": "Water Pump",
+    "skillName": "Crafting",
+    "amount": 5,
+    "storedOn": "Water Pump",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "dried_algae_snack",
+    "name": "Dried Algae Snack",
+    "ingredients": [
+      {
+        "materialId": "algae_paste",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 3600,
+    "autoTime": 1800,
+    "machineName": "Algae Processor",
+    "skillName": "Crafting",
+    "amount": 10,
+    "storedOn": "N/A",
+    "craftedBy": "Algae Processor"
+  },
+  {
+    "id": "fresh_algae",
+    "name": "Fresh Algae",
+    "ingredients": [],
+    "manualTime": 1800,
+    "autoTime": 600,
+    "machineName": "Growbox V1",
+    "skillName": "Crafting",
+    "amount": 5,
+    "storedOn": "N/A",
+    "craftedBy": "Growbox V1"
+  },
+  {
+    "id": "garden_plant",
+    "name": "Garden Plant",
+    "ingredients": [
+      {
+        "materialId": "retted_flaxa",
+        "quantity": 5
+      },
+      {
+        "materialId": "clay",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 1440,
+    "autoTime": 10,
+    "machineName": "Pottery Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Pottery Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "yellow_garden_plant",
+    "name": "Yellow Garden Plant",
+    "ingredients": [
+      {
+        "materialId": "clay",
+        "quantity": 10
+      },
+      {
+        "materialId": "flaxa",
+        "quantity": 5
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Pottery Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Pottery Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "side_table_with_plant",
+    "name": "Side table with plant",
+    "ingredients": [
+      {
+        "materialId": "resin",
+        "quantity": 5
+      },
+      {
+        "materialId": "flaxa",
+        "quantity": 5
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Pottery Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Pottery Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "garden_bench",
+    "name": "Garden Bench",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 1
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "N/A",
+    "craftedBy": "Simple Carpentry Station"
+  },
+  {
+    "id": "garden_chair",
+    "name": "Garden Chair",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 2
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "N/A",
+    "craftedBy": "Simple Carpentry Station"
+  },
+  {
+    "id": "garden_table",
+    "name": "Garden Table",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 2
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "N/A",
+    "craftedBy": "Simple Carpentry Station"
+  },
+  {
+    "id": "hammock",
+    "name": "Hammock",
+    "ingredients": [
+      {
+        "materialId": "retted_flaxa",
+        "quantity": 2
+      },
+      {
+        "materialId": "rough_flaxa_cushion",
+        "quantity": 1
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Tailoring Bench",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "N/A",
+    "craftedBy": "Tailoring Bench"
+  },
+  {
+    "id": "herbal_soup",
+    "name": "Herbal Soup",
+    "ingredients": [
+      {
+        "materialId": "clean_water",
+        "quantity": 5
+      },
+      {
+        "materialId": "unknown_herbs",
+        "quantity": 10
+      }
+    ],
+    "manualTime": 3600,
+    "autoTime": 1800,
+    "machineName": "Stove",
+    "skillName": "Crafting",
+    "amount": 10,
+    "storedOn": "Stove",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "wooden_planks",
+    "name": "Wooden Planks",
+    "ingredients": [
+      {
+        "materialId": "raw_lumber",
+        "quantity": 2
+      }
+    ],
+    "manualTime": 300,
+    "autoTime": 10,
+    "machineName": "Plank Saw",
+    "skillName": "Crafting",
+    "amount": 10,
+    "storedOn": "Plank Saw",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "wooden_crank_plate",
+    "name": "Wooden Crank Plate",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 4
+      }
+    ],
+    "manualTime": 600,
+    "autoTime": 10,
+    "machineName": "Plank Saw",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Plank Saw",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "clean_water",
+    "name": "Clean Water",
+    "ingredients": [
+      {
+        "materialId": "murky_water",
+        "quantity": 5
+      }
+    ],
+    "manualTime": 1440,
+    "autoTime": 10,
+    "machineName": "Water Filtration Unit",
+    "skillName": "Crafting",
+    "amount": 5,
+    "storedOn": "Water Filtration Unit",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "clean_water_from_air",
+    "name": "Clean Water",
+    "ingredients": [],
+    "manualTime": 1440,
+    "autoTime": 10,
+    "machineName": "Air Condenser",
+    "skillName": "Crafting",
+    "amount": 5,
+    "storedOn": "N/A",
+    "craftedBy": "Air Condenser"
+  },
+  {
+    "id": "flaxa_thread",
+    "name": "Flaxa Thread",
+    "ingredients": [
+      {
+        "materialId": "flaxa",
+        "quantity": 1
+      },
+      {
+        "materialId": "clean_water",
+        "quantity": 1
+      }
+    ],
+    "manualTime": 300,
+    "autoTime": 10,
+    "machineName": "Tailoring Bench",
+    "skillName": "Crafting",
+    "amount": 3,
+    "storedOn": "Tailoring Bench",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "gravel",
+    "name": "Gravel",
+    "ingredients": [
+      {
+        "materialId": "limestone",
+        "quantity": 1
+      }
+    ],
+    "manualTime": 800,
+    "autoTime": 10,
+    "machineName": "Stone Grinder",
+    "skillName": "Crafting",
+    "amount": 5,
+    "storedOn": "Stone Grinder",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "retted_flaxa",
+    "name": "Retted Flaxa",
+    "ingredients": [
+      {
+        "materialId": "flaxa",
+        "quantity": 5
+      },
+      {
+        "materialId": "clean_water",
+        "quantity": 1
+      }
+    ],
+    "manualTime": 300,
+    "autoTime": 10,
+    "machineName": "Tailoring Bench",
+    "skillName": "Crafting",
+    "amount": 10,
+    "storedOn": "N/A",
+    "craftedBy": "Tailoring Bench"
+  },
+  {
+    "id": "silica_sand",
+    "name": "Silica Sand",
+    "ingredients": [
+      {
+        "materialId": "limestone",
+        "quantity": 1
+      }
+    ],
+    "manualTime": 800,
+    "autoTime": 10,
+    "machineName": "Stone Grinder",
+    "skillName": "Crafting",
+    "amount": 5,
+    "storedOn": "Stone Grinder",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "clay_raw",
+    "name": "Clay",
+    "ingredients": [],
+    "manualTime": 1440,
+    "autoTime": 10,
+    "machineName": "Clay Extractor",
+    "skillName": "Crafting",
+    "amount": 5,
+    "storedOn": "Clay Extractor",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "flaxa",
+    "name": "Flaxa",
+    "ingredients": [],
+    "manualTime": 2880,
+    "autoTime": 10,
+    "machineName": "Growbox V1",
+    "skillName": "Crafting",
+    "amount": 5,
+    "storedOn": "N/A",
+    "craftedBy": "Growbox V1"
+  },
+  {
+    "id": "raw_lumber",
+    "name": "Raw Lumber",
+    "ingredients": [],
+    "manualTime": 2880,
+    "autoTime": 10,
+    "machineName": "Growbox V1",
+    "skillName": "Crafting",
+    "amount": 5,
+    "storedOn": "N/A",
+    "craftedBy": "Growbox V1"
+  },
+  {
+    "id": "limestone_raw",
+    "name": "Limestone",
+    "ingredients": [],
+    "manualTime": 1440,
+    "autoTime": 10,
+    "machineName": "Stone Extractor",
+    "skillName": "Crafting",
+    "amount": 5,
+    "storedOn": "Stone Extractor",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "murky_water_raw",
+    "name": "Murky Water",
+    "ingredients": [],
+    "manualTime": 1200,
+    "autoTime": 10,
+    "machineName": "Water Pump",
+    "skillName": "Crafting",
+    "amount": 5,
+    "storedOn": "Water Pump",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "reinforced_handle",
+    "name": "Reinforced Handle",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 1
+      },
+      {
+        "materialId": "retted_flaxa",
+        "quantity": 1
+      }
+    ],
+    "manualTime": 800,
+    "autoTime": 10,
+    "machineName": "Tailoring Bench",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Tailoring Bench",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "shoddy_bed",
+    "name": "Shoddy Bed",
+    "ingredients": [
+      {
+        "materialId": "raw_lumber",
+        "quantity": 4
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Simple Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "shoddy_chair",
+    "name": "Shoddy Chair",
+    "ingredients": [
+      {
+        "materialId": "raw_lumber",
+        "quantity": 2
+      }
+    ],
+    "manualTime": 1440,
+    "autoTime": 24,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Simple Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "wood_outhouse",
+    "name": "Wood Outhouse",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 2
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Simple Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "wood_wash_basin",
+    "name": "Wood Wash Basin",
+    "ingredients": [
+      {
+        "materialId": "wooden_planks",
+        "quantity": 2
+      }
+    ],
+    "manualTime": 1080,
+    "autoTime": 10,
+    "machineName": "Simple Carpentry Station",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Simple Carpentry Station",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "brick",
+    "name": "Brick",
+    "ingredients": [
+      {
+        "materialId": "clay",
+        "quantity": 1
+      },
+      {
+        "materialId": "limestone",
+        "quantity": 1
+      }
+    ],
+    "manualTime": 600,
+    "autoTime": 10,
+    "machineName": "Kiln",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Kiln",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "fiberglass",
+    "name": "Fiberglass",
+    "ingredients": [
+      {
+        "materialId": "silica_sand",
+        "quantity": 1
+      },
+      {
+        "materialId": "polished_stone",
+        "quantity": 1
+      }
+    ],
+    "manualTime": 1440,
+    "autoTime": 10,
+    "machineName": "Kiln",
+    "skillName": "Crafting",
+    "amount": 3,
+    "storedOn": "Kiln",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "glass",
+    "name": "Glass",
+    "ingredients": [
+      {
+        "materialId": "silica_sand",
+        "quantity": 1
+      }
+    ],
+    "manualTime": 600,
+    "autoTime": 10,
+    "machineName": "Kiln",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Kiln",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "resin",
+    "name": "Resin",
+    "ingredients": [
+      {
+        "materialId": "limestone",
+        "quantity": 1
+      }
+    ],
+    "manualTime": 600,
+    "autoTime": 10,
+    "machineName": "Masonry",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Masonry",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "polished_stone",
+    "name": "Polished Stone",
+    "ingredients": [
+      {
+        "materialId": "clay",
+        "quantity": 3
+      },
+      {
+        "materialId": "algae_paste",
+        "quantity": 1
+      }
+    ],
+    "manualTime": 600,
+    "autoTime": 10,
+    "machineName": "Apothecary Table",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "Apothecary Table",
+    "craftedBy": "N/A"
+  },
+  {
+    "id": "rough_flaxa_cushion",
+    "name": "Rough Flaxa Cushion",
+    "ingredients": [
+      {
+        "materialId": "retted_flaxa",
+        "quantity": 5
+      }
+    ],
+    "manualTime": 300,
+    "autoTime": 120,
+    "machineName": "Tailoring Bench",
+    "skillName": "Crafting",
+    "amount": 1,
+    "storedOn": "N/A",
+    "craftedBy": "Tailoring Bench"
+  }
+]
